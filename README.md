@@ -1,3 +1,5 @@
+# 编译方法很简单，开启vc 编译环境，直接nmake 运行就可以了。
+
 # Microsoft Research Detours Package
 
 Detours is a software package for monitoring and instrumenting API calls on Windows. Detours
